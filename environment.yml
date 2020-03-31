@@ -1,0 +1,9 @@
+name: JPcompute
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - notebook
