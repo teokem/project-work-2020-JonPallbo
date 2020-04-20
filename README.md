@@ -13,3 +13,5 @@
 6. Activate the conda environment by running the following command: `conda activate JPcompute`
 
 7. Start Jupyter Notebook by running the following command: `jupyter notebook`
+
+[![DOI](https://zenodo.org/badge/246544461.svg)](https://zenodo.org/badge/latestdoi/246544461)
